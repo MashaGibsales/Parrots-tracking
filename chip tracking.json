@@ -4,3 +4,16 @@
 
   "extraInfo": "extraInfo",
   "tradedItemInputs": []
+
+
+{
+    "name": "notARealCookbook001",
+  "description": "notARealCookbook001",
+  "version": "1.0",
+}
+
+{  "name" : "notARealCookbook002",
+  "description" : "notARealCookbook002",
+  "version" : "1.0",
+  "developer" : "n/a",
+  "sender" : "",}
